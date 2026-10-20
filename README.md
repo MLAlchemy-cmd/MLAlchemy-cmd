@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MLAlchemy-cmd/MLAlchemy-cmd/main/assets/banner.svg?v=2" alt="Sahitya Avadhanam" width="100%" />
+  <img src="https://raw.githubusercontent.com/MLAlchemy-cmd/MLAlchemy-cmd/main/assets/banner.svg?v=3" alt="Sahitya Avadhanam" width="100%" />
 </p>
 
 <p align="center">
